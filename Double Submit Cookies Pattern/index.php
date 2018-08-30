@@ -11,7 +11,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h2>Assignment 1 Part One - Synchronizer Token Pattern</h2>
+  <h2>Assignment 1 Part Two - Double Submit Cookies Pattern</h2>
 </div>
   
 <div class="container">
